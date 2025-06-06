@@ -35,15 +35,20 @@ Using Power BI, we've built an insightful dashboard to explore:
 
 RetailPulse-Dashboard/
 │
-├── data/
-│ ├── Products.csv
-│ ├── Sales.csv
-│ ├── Stores.csv
-│ └── Customers.csv
+├── data/                          # Source datasets
+│   ├── Products.csv
+│   ├── Sales.csv
+│   ├── Stores.csv
+│   └── Customers.csv
 │
-├── RetailPulseDashboard.pbix # Power BI file
-├── README.md
-└── LICENSE
+├── screenshots/                   # Dashboard previews
+│   ├── SalesScope_Page1.png
+│   └── CustomerSalesView_Page2.png
+│
+├── RetailPulseDashboard.pbix      # Power BI file (with 2 pages: Sales Scope & Customer View)
+├── README.md                      # Project documentation
+└── LICENSE                        # License information
+
 
 ---
 
@@ -53,5 +58,17 @@ RetailPulse-Dashboard/
 - **DAX (Data Analysis Expressions)**
 - **Faker (Python)** for synthetic dataset generation
 - **CSV** format for data files
+
+
+---
+
+## 📸 Dashboard Previews
+
+### 📊 Sales Scope (Page 1)
+![Sales Scope](./screenshots/SalesScope_Page1.png)
+
+### 👥 Customer & Sales View (Page 2)
+![Customer and Sales View](./screenshots/CustomerSalesView_Page2.png)
+
 
 
