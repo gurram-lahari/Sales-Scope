@@ -65,10 +65,12 @@ RetailPulse-Dashboard/
 ## 📸 Dashboard Previews
 
 ### 📊 Sales Scope (Page 1)
-![Sales Scope](./screenshots/SalesScope_Page1.png)
+![SalesScope_Page1 png](https://github.com/user-attachments/assets/f1ea92c8-d169-48e1-8b90-aa911e6f1a8e)
+
 
 ### 👥 Customer & Sales View (Page 2)
-![Customer and Sales View](./screenshots/CustomerSalesView_Page2.png)
+![CustomerSalesView_Page2 png](https://github.com/user-attachments/assets/3cd21aee-6c5f-4905-b42c-6246b8d40a2f)
+
 
 
 
