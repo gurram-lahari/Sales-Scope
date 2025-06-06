@@ -31,10 +31,23 @@ Using Power BI, we've built an insightful dashboard to explore:
 
 ---
 
-## 🗂️ Folder Structure
 
-<pre> ## 📁 Folder Structure RetailPulse-Dashboard/ ├── 📂 data/ # Source datasets │ ├── Products.csv │ ├── Sales.csv │ ├── Stores.csv │ └── Customers.csv │ ├── 📂 screenshots/ # Dashboard previews │ ├── SalesScope_Page1.png │ └── CustomerSalesView_Page2.png │ ├── 📊 RetailPulseDashboard.pbix # Power BI file (2 pages) ├── 📄 README.md # Project documentation └── 📄 LICENSE # License info </pre>
+## 📁 Folder Structure
 
+RetailPulse-Dashboard/
+├── 📂 data/                      # Source datasets
+│   ├── Products.csv
+│   ├── Sales.csv
+│   ├── Stores.csv
+│   └── Customers.csv
+│
+├── 📂 screenshots/               # Dashboard previews
+│   ├── SalesScope_Page1.png
+│   └── CustomerSalesView_Page2.png
+│
+├── 📊 RetailPulseDashboard.pbix  # Power BI file (2 pages)
+├── 📄 README.md                  # Project documentation
+└── 📄 LICENSE                    # License info
 
 ---
 
